@@ -1,0 +1,9 @@
+A circuit applies gates in an order, then measurement returns a classical sample.
+
+Run the same experiment again and the counts vary.
+
+As shots accumulate, the observed frequencies tend to approach the predicted distribution.
+
+One run never reveals every amplitude.
+
+At twenty shots, counts can wander; with a thousand, they tend to sit closer to the prediction. Both remain finite estimates.

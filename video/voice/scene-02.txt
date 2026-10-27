@@ -1,0 +1,9 @@
+Start with the model.
+
+A qubit is described by complex amplitudes, not by a tiny classical coin hiding a definite answer.
+
+The squared magnitudes give measurement probabilities.
+
+Relative phase can change what a later gate does, even when the first measurement looks unchanged.
+
+Normalization keeps total probability at one; relative phase tells later gates how amplitudes relate.

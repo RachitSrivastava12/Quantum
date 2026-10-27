@@ -1,0 +1,7 @@
+In the browser lab, compose gates yourself.
+
+Choose one to four qubits, prepare a circuit, select X, Y, or Z measurement, and decide how many shots to run.
+
+Inspect the state vector, the ideal prediction, and the finite sample side by side.
+
+Choose a gate and target, then inspect the model's predicted outcomes.

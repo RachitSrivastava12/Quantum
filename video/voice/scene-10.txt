@@ -1,0 +1,7 @@
+Qubit Atlas runs its ideal state-vector simulator locally in your browser, up to four qubits.
+
+It does not run on quantum hardware or model device noise.
+
+Start with lesson one.
+
+Build the model before believing the headline.

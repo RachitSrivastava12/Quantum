@@ -1,0 +1,7 @@
+Quantum computing attracts big promises.
+
+A better place to begin is smaller: with a state, a circuit, and a prediction you can check.
+
+Qubit Atlas is a guided field course for learning how quantum computation actually works, from your first qubit to experiments you can explain.
+
+Lessons pair clear explanations with worked examples and experiments you can repeat.

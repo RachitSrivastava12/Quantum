@@ -1,0 +1,9 @@
+Build a Bell pair with a Hadamard and a controlled NOT.
+
+In the ideal Z-basis model, only zero-zero and one-one appear, each with probability one half.
+
+Each qubit alone is balanced; together, their outcomes are correlated.
+
+A circuit simulator demonstrates this prediction. It is not a physical Bell test.
+
+The ideal joint state contains only zero-zero and one-one, though either qubit alone is random.

@@ -1,0 +1,9 @@
+Then follow a complete path: ten connected modules and thirty worked lessons.
+
+Build foundations in states, amplitudes, measurement, and linear algebra.
+
+Progress through gates, circuits, entanglement, and algorithms.
+
+Continue into noise, error correction, hardware, and the methods for designing and reporting an experiment.
+
+Each lesson pairs a clear objective with a worked example, experiment, and checkpoint.

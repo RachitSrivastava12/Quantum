@@ -1,0 +1,7 @@
+From there, study search, phase estimation, and the quantum Fourier transform with their assumptions in view.
+
+Learn density matrices, decoherence, and why error correction needs resources.
+
+Connect abstract circuits to hardware constraints, compilation, and hybrid workflows.
+
+Ask where a speedup comes from, what resources it costs, and what the ideal model leaves out.

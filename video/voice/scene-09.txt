@@ -1,0 +1,7 @@
+Every experiment starts with a question, a prediction, a measurement choice, and a record of its limits.
+
+Guided examples and self-checks build the habit.
+
+Use the glossary when notation gets dense, track your local progress, and export circuits as OpenQASM 2 for use in other tools.
+
+Record the circuit, basis, shot count, and assumptions so another learner can interpret the result.

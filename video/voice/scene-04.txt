@@ -1,0 +1,7 @@
+Try Hadamard, Z, Hadamard on a qubit prepared in zero.
+
+The middle gate changes relative phase, not the immediate Z probabilities.
+
+The final Hadamard turns that phase difference into interference: the outcome switches from zero to one.
+
+This small experiment makes an abstract idea observable.
